@@ -6,4 +6,4 @@ handleEvents(bot);
 bot.launch();
 
 console.log("Hello world");
-1;
+
